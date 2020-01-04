@@ -44,22 +44,24 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#"><img src="images/logo.png" alt="Logo"></a>
+                <a class="navbar-brand" href="#"><img src="imgdw/logo1.png" alt="Logo"></a>
             </div>
             <div class="collapse navbar-collapse" id="primary_menu">
-                <ul class="nav navbar-nav mainmenu">
-                    <li><a href="index.html#home_page">Home</a></li>
-                    <li><a href="index.html#about_page">About</a></li>
-                    <li><a href="index.html#features_page">Features</a></li>
-                    <li><a href="index.html#gallery_page">Gallery</a></li>
-                    <li><a href="index.html#price_page">Pricing</a></li>
-                    <li><a href="index.html#questions_page">FAQ</a></li>
-                    <li class="active"><a href="blog.html">Blog</a></li>
-                    <li><a href="index.html#contact_page">Contacts</a></li>
+            <ul class="nav navbar-nav mainmenu">
+                    <li class=""><a href="index#home_page">INICIO</a></li>
+                    <li><a href="index#about_page">NOSOTROS</a></li>
+                    <li class="active"><a href="index#gallery_page">PRODUCTOS</a></li>
+                    <!-- <div class="dark-color hidden-lg hidden-md hidden-sm show-xs">
+                        <li>
+                            <a href="#">CATÁLOGO</a>
+                        </li>
+                    </div> -->
+                    <li><a href="index#info_page">INFORMACIÓN</a></li>
+                    <li><a href="index#contact_page">CONTACTO</a></li>
+                    <!-- <li><a href="#questions_page">FAQ</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="#contact_page">Contacts</a></li> -->
                 </ul>
-                <div class="right-button hidden-xs">
-                    <a href="#">Sign Up</a>
-                </div>
             </div>
         </div>
     </nav>
@@ -69,11 +71,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 text-center">
-                    <h1 class="white-color">Out Latest Blog</h1>
-                    <ul class="breadcrumb">
-                        <li><a href="index.html">Home</a></li>
-                        <li>Blog</li>
-                    </ul>
+                    <h1 class="white-color">Catálogo</h1>
                 </div>
             </div>
         </div>
@@ -81,7 +79,7 @@
     <div class="section-padding">
         <div class="container">
             <div class="row">
-                <div class="col-xs-12">
+                <!-- <div class="col-xs-12">
                     <article class="post-single sticky">
                         <figure class="post-media">
                             <img src="images/sticky-image.jpg" alt="">
@@ -97,20 +95,27 @@
                         </div>
                     </article>
                     <div class="space-100"></div>
-                </div>
+                </div> -->
             </div>
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <article class="post-single">
                         <figure class="post-media">
-                            <img src="images/blog-1.jpg" alt="">
+                            <img src="imgdw/panel2.2.png" alt="">
                         </figure>
                         <div class="post-body">
                             <div class="post-meta">
-                                <div class="post-tags"><a href="#">People</a></div>
-                                <div class="post-date">01.02.2017</div>
+                                <div class="post-tags"><a href="#">Panes Solar de 280W</a></div>
+                                <div class="post-date">Paneles</div>
                             </div>
-                            <h4 class="dark-color"><a href="single.html">IOS 10: 8 Things we want froma pple iPhone8S</a></h4>
+                            <!-- <p class="dark-color">
+                                <a href="single.html">
+                                Volataje:35.0V <br>
+                                Poder Máximo: (pmax)280W <br>
+                                AM: 1.5 <br>
+                                Estánderes internacionales de Cálidad
+                                </a>
+                            </p> -->
                             <a href="single.html" class="read-more">View Article</a>
                         </div>
                     </article>
@@ -118,14 +123,14 @@
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <article class="post-single">
                         <figure class="post-media">
-                            <img src="images/blog-2.jpg" alt="">
+                            <img src="imgdw/bt1.3.png" alt="">
                         </figure>
                         <div class="post-body">
                             <div class="post-meta">
-                                <div class="post-tags"><a href="#">People</a></div>
-                                <div class="post-date">01.02.2017</div>
+                                <div class="post-tags"><a href="#">Bateria de 120V</a></div>
+                                <div class="post-date">Baterias</div>
                             </div>
-                            <h4 class="dark-color"><a href="single.html">Top destinations to escape from reality</a></h4>
+                            <!-- <h4 class="dark-color"><a href="single.html">Top destinations to escape from reality</a></h4> -->
                             <a href="single.html" class="read-more">View Article</a>
                         </div>
                     </article>
@@ -133,14 +138,14 @@
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <article class="post-single">
                         <figure class="post-media">
-                            <img src="images/blog-3.jpg" alt="">
+                            <img src="imgdw/lp1.2.png" alt="">
                         </figure>
                         <div class="post-body">
                             <div class="post-meta">
-                                <div class="post-tags"><a href="#">People</a></div>
-                                <div class="post-date">01.02.2017</div>
+                                <div class="post-tags"><a href="#">Lampara LED</a></div>
+                                <div class="post-date">Lamparas</div>
                             </div>
-                            <h4 class="dark-color"><a href="single.html">Five ways to wear a shirt by Victoria Beckha</a></h4>
+                            <!-- <h4 class="dark-color"><a href="single.html">Five ways to wear a shirt by Victoria Beckha</a></h4> -->
                             <a href="single.html" class="read-more">View Article</a>
                         </div>
                     </article>
