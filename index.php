@@ -3,16 +3,15 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="author" content="Sumon Rahman">
+    <meta name="author" content="@_andress.mm">
     <meta name="description" content="">
-    <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+    <meta name="keywords" content="">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Title -->
-    <title>Sunshine Solar</title>
+    <title>SUNSHINESOLAR-INICIO</title>
     <!-- Place favicon.ico in the root directory -->
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-    <link rel="shortcut icon" type="image/ico" href="images/favicon.ico" />
+    <link rel="shortcut icon" type="image/ico" href="imgdw/icon/logo.ico" />
     <!-- Plugin-CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -338,64 +337,7 @@
     <!-- Subscribe-Form-Area -->
 
     <!-- Footer-Area -->
-    <footer class="footer-area" id="contact_page">
-        <div class="section-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12">
-                        <div class="page-title text-center">
-                            <h5 class="title">Contactactanos</h5>
-                            <h3 class="dark-color">Contactos</h3>
-                            <div class="space-60"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xs-12 col-sm-4">
-                        <div class="footer-box">
-                            <div class="box-icon">
-                                <span class="lnr lnr-map-marker"></span>
-                            </div>
-                            <p>8-54 Paya Lebar Square <br /> 60 Paya Lebar Roa SG, Singapore</p>
-                        </div>
-                        <div class="space-30 hidden visible-xs"></div>
-                    </div>
-                    <div class="col-xs-12 col-sm-4">
-                        <div class="footer-box">
-                            <div class="box-icon">
-                                <span class="lnr lnr-phone-handset"></span>
-                            </div>
-                            <p>+65 93901336 <br /> +65 93901337</p>
-                        </div>
-                        <div class="space-30 hidden visible-xs"></div>
-                    </div>
-                    <div class="col-xs-12 col-sm-4">
-                        <div class="footer-box">
-                            <div class="box-icon">
-                                <span class="lnr lnr-envelope"></span>
-                            </div>
-                            <p>yourmail@gmail.com <br /> backpiper.com@gmail.com
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Footer-Bootom -->
-        <div class="footer-bottom">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-md-12 text-center">
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            <span>Copyright &copy; 2019</script> All rights reserved | Create by <a href="https://gomocreative.com" target="_blank">GOMOCreative</a></span>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        <div class="space-30 hidden visible-xs"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Footer-Bootom-End -->
-    </footer>
+    <?php require('_footer.php') ?>
     <!-- Footer-Area-End -->
 
     <!--Vendor-JS-->
