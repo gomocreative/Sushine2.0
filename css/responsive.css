@@ -76,6 +76,7 @@
     }
     .angle:after {
         height: 80px;
+        background-color: #dfe6e9;
     }
 }
 
@@ -124,6 +125,7 @@
     }
     .angle:after {
         height: 80px;
+        background-color: #dfe6e9;
     }
 }
 
@@ -132,6 +134,7 @@
 @media only screen and (max-width: 767px) {
     body {
         font-size: 14px;
+        background-color: #dfe6e9;
     }
     h1 {
         font-size: 40px;
@@ -148,6 +151,7 @@
     }
     .angle:after {
         height: 60px;
+        background-color: #dfe6e9;
     }
     /*-- Main-Menu-Style --*/
     .mainmenu-area {

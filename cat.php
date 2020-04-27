@@ -96,34 +96,34 @@
                   <div class="space-100"></div>
                </div> -->
          </div>
-         
+
          <div class="row">
 
-            <?php 
+            <?php
             require('_products_area.php');
-            
+
             // Paneles
-               for ($p=1; $p<=8; $p++) { 
+               for ($p=1; $p<=8; $p++) {
                   printProduct($p, $imgProducts[$p], $nameProducts[$p], $catProducts[1], $descProducts[$p]);
                }
             // Inversores
-               for ($i=9; $i<=9; $i++) { 
+               for ($i=9; $i<=9; $i++) {
                   printProduct($i, $imgProducts[$i], $nameProducts[$i], $catProducts[2], $descProducts[$i]);
                }
             // Controladores
-               for ($c=10; $c<=10; $c++) { 
+               for ($c=10; $c<=10; $c++) {
                   printProduct($c, $imgProducts[$c], $nameProducts[$c], $catProducts[3], $descProducts[$c]);
                }
             // Lamparas
-               for ($slp=11; $slp<=12; $slp++) { 
+               for ($slp=11; $slp<=12; $slp++) {
                   printProduct($slp, $imgProducts[$slp], $nameProducts[$slp], $catProducts[4], $descProducts[$slp]);
                }
             // Baterias
-               for ($bt=13; $bt<=15; $bt++) { 
+               for ($bt=13; $bt<=15; $bt++) {
                printProduct($bt, $imgProducts[$bt], $nameProducts[$bt], $catProducts[5], $descProducts[$bt]);
                }
             // Luces
-               for ($l=16; $l<=18; $l++) { 
+               for ($l=16; $l<=18; $l++) {
                   printProduct($l, $imgProducts[$l], $nameProducts[$l], $catProducts[6], $descProducts[$l]);
                }
             ?>
@@ -154,11 +154,11 @@
          <div class="row">
                <div class="col-xs-12 col-sm-8 col-sm-offset-2">
                   <div class="subscribe-form text-center">
-                     <h3 class="blue-color">Subscribe for More Features</h3>
+                     <h3 class="blue-color">¿Deseas conocer más nuestros productos y promociones? ¡Suscríbete!</h3>
                      <div class="space-20"></div>
                      <form id="mc-form">
-                        <input type="email" class="control" placeholder="Enter your email" required="required" id="mc-email">
-                        <button class="bttn-white active" type="submit"><span class="lnr lnr-location"></span> Subscribe</button>
+                        <input type="email" class="control" placeholder="Ingresa tu email" required="required" id="mc-email">
+                        <button class="bttn-white active" type="submit"><span class="lnr lnr-location"></span> Suscribirse</button>
                         <label class="mt10" for="mc-email"></label>
                      </form>
                   </div>
@@ -168,7 +168,7 @@
    </div>
    <!-- Subscribe-Form-Area -->
    <!-- Footer-Area -->
-   <?php require('_footer.php') ?>               
+   <?php require('_footer.php') ?>
    <!-- Footer-Bootom-End -->
    </footer>
    <!-- Footer-Area-End -->

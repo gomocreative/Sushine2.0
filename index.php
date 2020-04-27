@@ -9,7 +9,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Title -->
-    <title>SUNSHINESOLAR-INICIO</title>
+    <title>SUNSHINE SOLAR</title>
     <!-- Place favicon.ico in the root directory -->
     <link rel="shortcut icon" type="image/ico" href="imgdw/icon/logo.ico" />
     <!-- Plugin-CSS -->
@@ -87,7 +87,7 @@
                     <h1 class="wow fadeInUp" data-wow-delay="0.4s"><span class="color1">Sunshine</span><span class="color2"> Solar</span></h1>
                     <div class="space-20"></div>
                     <div class="desc wow fadeInUp" data-wow-delay="0.6s">
-                        <p>Energía limpia, renovable y sostenible.</p>
+                        <p>Energía limpia, Renovable y Sostenible.</p>
                     </div>
                     <div class="space-30"></div>
                     <a href="#about_page" class="bttn-white wow fadeInUp" data-wow-delay="0.8s">Más</a>
@@ -114,9 +114,9 @@
                     </div>
                     <div class="col-xs-12 col-sm-6">
                         <div class="page-title">
-                            <h5 class="title wow fadeInUp" data-wow-delay="0.2s">Descubre un poco mas de</h5>
+                            <h5 class="title wow fadeInUp" data-wow-delay="0.2s">Descubre un poco más</h5>
                             <div class="space-10"></div>
-                            <h3 class="dark-color wow fadeInUp" data-wow-delay="0.4s">Sunshine Solar</h3>
+                            <h3 class="dark-color wow fadeInUp" data-wow-delay="0.4s"><strong>Sunshine Solar</strong></h3>
                         </div>
                         <div class="space-20"></div>
                         <div class="desc wow fadeInUp" data-wow-delay="0.6s">
@@ -137,7 +137,7 @@
                             <div class="box-icon">
                                 <i class="lnr lnr-earth"></i>
                             </div>
-                            <h4>Presecia</h4>
+                            <h4><strong>Presencia</strong></h4>
                             <p>Al día de hoy, estamos presentes en de 3 continentes, 30 países y continuamos expandiéndonos.</p>
                         </div>
                         <div class="space-50"></div>
@@ -145,7 +145,7 @@
                             <div class="box-icon">
                                 <i class="lnr lnr-layers"></i>
                             </div>
-                            <h4>Proyectos</h4>
+                            <h4><strong>Proyectos</strong></h4>
                             <p>Nuestros productos an formado parte de grandes proyectos de energía limpia a lo largo de todo el mundo.</p>
                         </div>
                         <div class="space-50"></div>
@@ -153,7 +153,7 @@
                             <div class="box-icon">
                                 <i class="lnr lnr-star"></i>
                             </div>
-                            <h4>Estándares</h4>
+                            <h4><strong>Estándares</strong></h4>
                             <p>Contamos con estándares internacionales de calidad, así como certificaciones y reconocimientos, entre otros.</p>
                         </div>
                     </div>
@@ -217,7 +217,7 @@
                     <div class="page-title text-center">
                         <h5 class="title">INFORMACIÓN</h5>
                         <div class="space-10"></div>
-                        <h3>Veneficios de usar paneles solares</h3>
+                        <h3>Beneficios de utilizar Paneles Solares</h3>
                         <div class="space-60"></div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@
                         <div class="box-icon">
                             <i class="lnr lnr-paperclip"></i>
                         </div>
-                        <h4>Impacto ambiental</h4>
+                        <h4>Impacto Ambiental</h4>
                         <p>A diferencia de otros, no libera emiciones peligorsas de dióxido de carbono (CO2).</p>
                     </div>
                     <div class="space-60"></div>
@@ -289,23 +289,23 @@
      <section class="video-area section-padding">
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-md-6">
+                <div class="col-xs-12 col-md-5">
                     <div class="video-photo">
                         <img src="imgdw/panel_bg3.jpg" alt="">
-                        <a href="imgdw/panelVideo.mp4" class="popup video-button">
+                        <a href="https://www.youtube.com/watch?v=5cVpl1WGmJA" class="popup video-button">
                             <img src="images/play-button.png" alt="">
                         </a>
                     </div>
                 </div>
-                <div class="col-xs-12 col-md-5 col-md-offset-1">
+                <div class="col-xs-12 col-md-6 col-md-offset-1">
                     <div class="space-60 hidden visible-xs"></div>
                     <div class="page-title">
-                        <h5 class="title wow fadeInUp" data-wow-delay="0.2s">VIDEO INFORMATIVO</h5>
+                        <h5 class="title wow fadeInUp leftMargin" data-wow-delay="0.2s">VIDEO INFORMATIVO</h5>
                         <div class="space-10"></div>
-                        <h3 class="dark-color wow fadeInUp" data-wow-delay="0.4s">Conoce un poco más</h3>
+                        <h3 class="dark-color wow fadeInUp leftMargin" data-wow-delay="0.4s">Conoce un poco más</h3>
                         <div class="space-20"></div>
                         <div class="desc wow fadeInUp" data-wow-delay="0.6s">
-                            <p>Los paneles solares son dispositivos tecnológicos que su funcion principal es recolectar la energía solar y convertirla en energía utilizable para los humanos.</p>
+                            <p class="leftMargin">Los paneles solares son dispositivos tecnológicos cuya funcion principal es recolectar la energía solar y convertirla en energía utilizable para los humanos.</p>
                         </div>
                         <div class="space-50"></div>
                         <!-- <a href="#" class="bttn-default wow fadeInUp" data-wow-delay="0.8s">Learn More</a> -->
@@ -322,10 +322,10 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-8 col-sm-offset-2">
                     <div class="subscribe-form text-center">
-                        <h3 class="blue-color">Deseas que nos pongamos en contacto con tigo, envianos tu correo.</h3>
+                        <h3 class="blue-color">¿Nos ponemos en contacto con nosotros? Ingresa tu Email .</h3>
                         <div class="space-20"></div>
                         <form id="mc-form">
-                            <input type="email" class="control" placeholder="Correo Electronico" required="required" id="mc-email">
+                            <input type="email" class="control" placeholder="Email" required="required" id="mc-email">
                             <button class="bttn-white active" type="submit"><span class="lnr lnr-location"></span> Enviar</button>
                             <label class="mt10" for="mc-email"></label>
                         </form>

@@ -4,8 +4,8 @@
             <div class="row">
                <div class="col-xs-12">
                   <div class="page-title text-center">
-                        <h5 class="title">Contactactanos</h5>
-                        <h3 class="dark-color">Contactos</h3>
+                        <h5 class="title">Contactáctanos</h5>
+                        <h3 class="dark-color">Información</h3>
                         <div class="space-60"></div>
                   </div>
                </div>
@@ -16,7 +16,7 @@
                         <div class="box-icon">
                            <span class="lnr lnr-map-marker"></span>
                         </div>
-                        <p>8-54 Paya Lebar Square <br /> 60 Paya Lebar Roa SG, Singapore</p>
+                        <p>0 Avenida 23-13 zona 17 Calzada la Paz, Centro de Negocios la Paz, Bodega 301, Guatemala City</p>
                   </div>
                   <div class="space-30 hidden visible-xs"></div>
                </div>
@@ -25,7 +25,7 @@
                         <div class="box-icon">
                            <span class="lnr lnr-phone-handset"></span>
                         </div>
-                        <p>+502 9390-1336 <br /> +502 9390-1337</p>
+                        <p>+502 5911 9770 <br /> +502 5911 9770</p>
                   </div>
                   <div class="space-30 hidden visible-xs"></div>
                </div>
@@ -34,7 +34,7 @@
                         <div class="box-icon">
                            <span class="lnr lnr-envelope"></span>
                         </div>
-                        <p>yourmail@sunshinesolersa.com <br /> backpiper.com@sunshinesolarsa.com
+                        <p>proyectos@sunshinesolersa.com <br /> backpiper.com@sunshinesolarsa.com
                         </p>
                   </div>
                </div>
@@ -47,7 +47,7 @@
             <div class="row">
                <div class="col-xs-12 col-md-12 text-center">
                   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-      <span>Copyright &copy; 2019</script> All rights reserved | Create by <a href="https://gomocreative.com" target="_blank">GOMOCreative</a></span>
+      <span>Copyright &copy; 2019</script> All rights reserved | Create & Powered by <a href="https://gomocreative.com" target="_blank">GOMOCreative</a></span>
       <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                   <div class="space-30 hidden visible-xs"></div>
                </div>

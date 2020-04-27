@@ -1,0 +1,170 @@
+[13-Aug-2019 23:35:22 America/Guatemala] PHP Notice:  Undefined index: nombre in /home/sensomed/public_html/la-admin/functions.php on line 175
+[13-Aug-2019 23:35:22 America/Guatemala] PHP Notice:  Undefined index: tipo_usuario in /home/sensomed/public_html/la-admin/functions.php on line 210
+[13-Aug-2019 23:35:22 America/Guatemala] PHP Notice:  Undefined index: usuario in /home/sensomed/public_html/la-admin/functions.php on line 230
+[13-Aug-2019 23:35:22 America/Guatemala] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/public_html/la-admin/db_mysqli.php on line 30
+[13-Aug-2019 23:35:22 America/Guatemala] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/public_html/la-admin/db_mysqli.php on line 34
+[13-Aug-2019 23:35:22 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 246
+[13-Aug-2019 23:39:45 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 246
+[13-Aug-2019 23:39:53 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 246
+[13-Aug-2019 23:40:48 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 246
+[13-Aug-2019 23:41:16 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 246
+[13-Aug-2019 23:41:21 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 246
+[13-Aug-2019 23:41:27 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 246
+[13-Aug-2019 23:43:28 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[13-Aug-2019 23:46:13 America/Guatemala] PHP Notice:  Undefined index: nombre in /home/sensomed/public_html/la-admin/functions.php on line 176
+[13-Aug-2019 23:46:13 America/Guatemala] PHP Notice:  Undefined index: tipo_usuario in /home/sensomed/public_html/la-admin/functions.php on line 211
+[13-Aug-2019 23:46:13 America/Guatemala] PHP Notice:  Undefined index: usuario in /home/sensomed/public_html/la-admin/functions.php on line 231
+[13-Aug-2019 23:46:13 America/Guatemala] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/public_html/la-admin/db_mysqli.php on line 30
+[13-Aug-2019 23:46:13 America/Guatemala] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/public_html/la-admin/db_mysqli.php on line 34
+[13-Aug-2019 23:46:13 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[13-Aug-2019 23:46:24 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[13-Aug-2019 23:48:01 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[13-Aug-2019 23:48:04 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[13-Aug-2019 23:49:18 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[13-Aug-2019 23:49:24 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[13-Aug-2019 23:49:28 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[13-Aug-2019 23:53:05 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[13-Aug-2019 23:53:15 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/configuracion_general.php on line 11
+[13-Aug-2019 23:53:22 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[14-Aug-2019 00:12:19 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[14-Aug-2019 00:12:27 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[14-Aug-2019 00:13:36 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[14-Aug-2019 00:13:42 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[14-Aug-2019 00:13:48 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[14-Aug-2019 00:13:51 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/public_html/la-admin/functions.php on line 247
+[14-Aug-2019 00:28:10 America/Guatemala] PHP Notice:  Undefined index: nombre in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 177
+[14-Aug-2019 00:28:10 America/Guatemala] PHP Notice:  Undefined index: tipo_usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 212
+[14-Aug-2019 00:28:10 America/Guatemala] PHP Notice:  Undefined index: usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 232
+[14-Aug-2019 00:28:10 America/Guatemala] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 30
+[14-Aug-2019 00:28:10 America/Guatemala] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 34
+[14-Aug-2019 00:28:10 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 00:34:26 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 00:34:35 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 00:36:39 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 00:36:42 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 00:37:01 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 00:37:02 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 00:37:09 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 00:37:12 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 00:37:54 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/catalogo_producto.php on line 187
+[14-Aug-2019 00:37:54 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 00:37:58 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 01:46:05 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 01:46:09 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 01:46:12 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 01:46:52 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/catalogo_producto.php on line 187
+[14-Aug-2019 01:46:53 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 01:46:57 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 01:47:56 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/catalogo_producto.php on line 187
+[14-Aug-2019 01:47:57 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 01:48:19 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 01:49:30 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/catalogo_producto.php on line 187
+[14-Aug-2019 01:49:31 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 01:49:50 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 01:50:26 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/catalogo_producto.php on line 187
+[14-Aug-2019 01:50:26 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 01:50:47 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 01:51:59 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/catalogo_producto.php on line 187
+[14-Aug-2019 01:52:02 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 09:49:52 America/Guatemala] PHP Notice:  Undefined index: nombre in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 177
+[14-Aug-2019 09:49:52 America/Guatemala] PHP Notice:  Undefined index: tipo_usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 212
+[14-Aug-2019 09:49:52 America/Guatemala] PHP Notice:  Undefined index: usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 232
+[14-Aug-2019 09:49:52 America/Guatemala] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 30
+[14-Aug-2019 09:49:52 America/Guatemala] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 34
+[14-Aug-2019 09:49:52 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 248
+[14-Aug-2019 10:37:04 America/Guatemala] PHP Notice:  Undefined index: nombre in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 178
+[14-Aug-2019 10:37:04 America/Guatemala] PHP Notice:  Undefined index: tipo_usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 213
+[14-Aug-2019 10:37:04 America/Guatemala] PHP Notice:  Undefined index: usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 233
+[14-Aug-2019 10:37:04 America/Guatemala] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 30
+[14-Aug-2019 10:37:04 America/Guatemala] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 34
+[14-Aug-2019 10:37:04 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 11:15:18 America/Guatemala] PHP Notice:  Undefined index: nombre in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 178
+[14-Aug-2019 11:15:18 America/Guatemala] PHP Notice:  Undefined index: tipo_usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 213
+[14-Aug-2019 11:15:18 America/Guatemala] PHP Notice:  Undefined index: usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 233
+[14-Aug-2019 11:15:18 America/Guatemala] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 30
+[14-Aug-2019 11:15:18 America/Guatemala] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 34
+[14-Aug-2019 11:15:18 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 11:15:40 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 11:15:49 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 11:15:53 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 11:16:03 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 11:16:10 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 11:16:14 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 11:16:17 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 12:32:28 America/Guatemala] PHP Notice:  Undefined index: nombre in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 178
+[14-Aug-2019 12:32:28 America/Guatemala] PHP Notice:  Undefined index: tipo_usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 213
+[14-Aug-2019 12:32:28 America/Guatemala] PHP Notice:  Undefined index: usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 233
+[14-Aug-2019 12:32:28 America/Guatemala] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 30
+[14-Aug-2019 12:32:28 America/Guatemala] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 34
+[14-Aug-2019 12:32:28 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 12:32:32 America/Guatemala] PHP Notice:  Undefined index: nombre in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 178
+[14-Aug-2019 12:32:32 America/Guatemala] PHP Notice:  Undefined index: tipo_usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 213
+[14-Aug-2019 12:32:32 America/Guatemala] PHP Notice:  Undefined index: usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 233
+[14-Aug-2019 12:32:32 America/Guatemala] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 30
+[14-Aug-2019 12:32:32 America/Guatemala] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 34
+[14-Aug-2019 12:32:32 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 12:32:37 America/Guatemala] PHP Notice:  Undefined index: nombre in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 178
+[14-Aug-2019 12:32:37 America/Guatemala] PHP Notice:  Undefined index: tipo_usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 213
+[14-Aug-2019 12:32:37 America/Guatemala] PHP Notice:  Undefined index: usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 233
+[14-Aug-2019 12:32:37 America/Guatemala] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 30
+[14-Aug-2019 12:32:37 America/Guatemala] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 34
+[14-Aug-2019 12:32:37 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 12:32:38 America/Guatemala] PHP Notice:  Undefined index: nombre in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 178
+[14-Aug-2019 12:32:38 America/Guatemala] PHP Notice:  Undefined index: tipo_usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 213
+[14-Aug-2019 12:32:38 America/Guatemala] PHP Notice:  Undefined index: usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 233
+[14-Aug-2019 12:32:38 America/Guatemala] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 30
+[14-Aug-2019 12:32:38 America/Guatemala] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 34
+[14-Aug-2019 12:32:38 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 12:32:41 America/Guatemala] PHP Notice:  Undefined index: nombre in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 178
+[14-Aug-2019 12:32:41 America/Guatemala] PHP Notice:  Undefined index: tipo_usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 213
+[14-Aug-2019 12:32:41 America/Guatemala] PHP Notice:  Undefined index: usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 233
+[14-Aug-2019 12:32:41 America/Guatemala] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 30
+[14-Aug-2019 12:32:41 America/Guatemala] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 34
+[14-Aug-2019 12:32:41 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 12:32:43 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 12:32:48 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[14-Aug-2019 12:32:52 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[15-Aug-2019 11:22:46 America/Guatemala] PHP Notice:  Undefined index: nombre in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 178
+[15-Aug-2019 11:22:46 America/Guatemala] PHP Notice:  Undefined index: tipo_usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 213
+[15-Aug-2019 11:22:46 America/Guatemala] PHP Notice:  Undefined index: usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 233
+[15-Aug-2019 11:22:46 America/Guatemala] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 30
+[15-Aug-2019 11:22:46 America/Guatemala] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 34
+[15-Aug-2019 11:22:46 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[15-Aug-2019 11:23:34 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[15-Aug-2019 11:23:48 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[15-Aug-2019 11:23:57 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[15-Aug-2019 11:24:21 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[15-Aug-2019 11:24:30 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[15-Aug-2019 11:26:09 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[15-Aug-2019 11:26:20 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/catalogo_producto.php on line 187
+[15-Aug-2019 11:27:10 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[15-Aug-2019 11:27:28 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[15-Aug-2019 11:27:33 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[15-Aug-2019 11:27:47 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[15-Aug-2019 11:28:41 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[16-Aug-2019 15:23:07 America/Guatemala] PHP Notice:  Undefined index: nombre in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 178
+[16-Aug-2019 15:23:07 America/Guatemala] PHP Notice:  Undefined index: tipo_usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 213
+[16-Aug-2019 15:23:07 America/Guatemala] PHP Notice:  Undefined index: usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 233
+[16-Aug-2019 15:23:07 America/Guatemala] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 30
+[16-Aug-2019 15:23:07 America/Guatemala] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 34
+[16-Aug-2019 15:23:07 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[16-Aug-2019 15:23:20 America/Guatemala] PHP Notice:  Undefined index: nombre in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 178
+[16-Aug-2019 15:23:20 America/Guatemala] PHP Notice:  Undefined index: tipo_usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 213
+[16-Aug-2019 15:23:20 America/Guatemala] PHP Notice:  Undefined index: usuario in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 233
+[16-Aug-2019 15:23:20 America/Guatemala] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 30
+[16-Aug-2019 15:23:20 America/Guatemala] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/sensomed/sunshinesolarsa.com/la-admin/db_mysqli.php on line 34
+[16-Aug-2019 15:23:20 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[16-Aug-2019 15:23:44 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[16-Aug-2019 15:24:56 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[16-Aug-2019 15:26:17 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[16-Aug-2019 15:26:30 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[16-Aug-2019 15:57:34 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[16-Aug-2019 15:58:05 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/catalogo_producto.php on line 187
+[16-Aug-2019 15:58:50 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[16-Aug-2019 16:00:37 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[16-Aug-2019 16:01:04 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[16-Aug-2019 16:11:13 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[16-Aug-2019 16:11:18 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[16-Aug-2019 16:11:23 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/functions.php on line 249
+[16-Aug-2019 16:11:33 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/catalogo_producto.php on line 187
+[16-Aug-2019 16:11:52 America/Guatemala] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/sensomed/sunshinesolarsa.com/la-admin/catalogo_producto.php on line 187
